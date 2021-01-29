@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wd+ljLVGx40MiG6kZ2ZckK5omKVFbe0MMArSpohrIYNKzzHqHaC86XIcrt9KRIfdaYWCNgn1MEtIstr9e7kP7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\User\\Source\\Repos\\MvxStarter\\MvxStarter.Core\\MvxStarter.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mvvmcross\\7.1.2\\mvvmcross.7.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
